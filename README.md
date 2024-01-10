@@ -1,4 +1,7 @@
-### Hi I'm Vishal Rathour 👋
+<p align="center">
+# Hi I'm Vishal Rathour 👋
+"Aspiring Data Scientist on a journey into data science."
+</p>
 
 <!--
 
@@ -11,8 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-"Aspiring Data Scientist on a journey into data science."
+
 
 
 ## 🌐 Socials:
