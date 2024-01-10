@@ -1,5 +1,5 @@
 <p align="center">
-<h1> Hi I'm Vishal Rathour 👋</h1>
+  <h1> Hi, I'm Vishal Rathour 👋</h1>
 "Aspiring Data Scientist on a journey into data science."
 </p>
 
