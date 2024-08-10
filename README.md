@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Vishal Rathour 👋</h1>
-<h3 align="center">Passionate about data science, aspiring to make an impact. </h3>
+<h3 align="center">Passionate about Data Science, aspiring to make an impact. </h3>
 </p>
 
 <!--
