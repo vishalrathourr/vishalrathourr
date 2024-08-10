@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Vishal Rathour 👋</h1>
-<h3 align="center">Passionate about Data Science, aspiring to make an impact. </h3>
+<h3 align="center">Passionate about Data Science, Aspiring to make an impact. </h3>
 </p>
 
 <!--
@@ -15,7 +15,7 @@
 -->
 - 🔭 Actively enhancing data science skills through hands-on projects.
 - 🌱 Learning advanced machine learning for a versatile skill set.
-- 👯 Open to collaborating on data science projects with a physics touch.
+- 👯 Open to collaborating on data science projects.
 - 📫 Reach me via email vishdsc@gmail.com.
 - ⚡ Fun fact: I apply quantum mechanics principles to solve data puzzles!
 
