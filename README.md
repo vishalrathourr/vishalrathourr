@@ -17,7 +17,6 @@
 - 🌱 Learning advanced machine learning for a versatile skill set.
 - 👯 Open to collaborating on data science projects.
 - 📫 Reach me via email vishdsc@gmail.com.
-- ⚡ Fun fact: I apply quantum mechanics principles to solve data puzzles!
 
 
 ## 🌐 Socials:
@@ -33,8 +32,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishalrathourr&icon=6&color=5)](https://visitcount.itsvg.in)
